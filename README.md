@@ -113,8 +113,8 @@ This project demonstrates the use of Decision Tree and Random Forest classifiers
 ## 📁 Repository Structure
 
 ```
-Assignment-5/
-│── Assignment_5.ipynb
+Employee Attrition Prediction using Decision Tree and Random Forest Classification/
+│── Employee Attrition Prediction using Decision Tree and Random Forest Classification/.ipynb
 │── README.md
 ```
 
